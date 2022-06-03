@@ -2,7 +2,7 @@
 
  About Me
 mortar_board I am Tapajyoti Bose, a Front End Web Developer (specializing in React Applications) and a Top Rated Freelancer on Upwork. I am also Pursuing my Bachelor in Computer Science & Engineering and will graduate in mid-2022
-![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+[<github>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
 
 
 
