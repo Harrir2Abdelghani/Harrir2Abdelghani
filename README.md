@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+ About Me
+mortar_board I am Tapajyoti Bose, a Front End Web Developer (specializing in React Applications) and a Top Rated Freelancer on Upwork. I am also Pursuing my Bachelor in Computer Science & Engineering and will graduate in mid-2022
+
 <!--
 **Harrir2Abdelghani/Harrir2Abdelghani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
