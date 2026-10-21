@@ -1,4 +1,4 @@
-# Hi there, I'm Habib Harrir 👋
+# Hi there, I'm Harrir Habib Abdelghani 👋
 
 I'm a **Software Engineer and Full-Stack Developer** with 5+ years of experience building modern, scalable, and high-performance web applications.
 
